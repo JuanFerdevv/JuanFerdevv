@@ -19,7 +19,20 @@
 - 🙏  Thanks for being here
 <!--Intro end-->
 
+<h1 align="left">Tech Stack</h1>
 <div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
+</div>
+
+<h1 align="left"> Github stadistics</h1>
+<!--Github Stadistics-->
+<div align="center">
   
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=79811010" target="_blank" style="display: block" align="center">
   <picture>
@@ -31,12 +44,3 @@
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 </div>
 
-<div>
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
-</p>
-</div>
