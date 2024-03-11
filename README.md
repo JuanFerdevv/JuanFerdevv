@@ -3,16 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanCalvacheDed" alt="100rabhcsmc" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Copy-paste in your Readme.md file -->
+<!--Intro start-->
+- 🏠 Also We've a StartUp [Alquielres Guaranda](https://alquileresguaranda.com).
+  
+- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MySql**
+
+- 🌱 I’m currently learning **Generative images with Python.**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS, Google Cloud**
+
+- 📽 I currently upload videos to YouTube about technologies and tutorials [Youtube](https://www.youtube.com/@Juanferdev)
+
+- 📫 Feel free to reach me out **juanferdev006@gmail.com**
+  
+- 🙏  Thanks for being here
+<!--Intro end-->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=79811010" target="_blank" style="display: block" align="center">
   <picture>
