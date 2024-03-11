@@ -35,6 +35,6 @@
 <h1 align="left"> Github stadistics</h1>
 <!--GitHub Stats-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=JuanCalvacheDev&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCalvacheDev&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JuanFerdevv&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanFerdevv&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCalvacheDev&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFerdevv&layout=compact&theme=github_dark"/>|
