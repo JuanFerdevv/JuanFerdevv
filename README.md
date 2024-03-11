@@ -1,7 +1,9 @@
 <h1 align="center">Hi! I'm JuanFer Dev 💻</h1>
 
+<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanCalvacheDed" alt="100rabhcsmc" /> </p>
+
 
 <!--Intro start-->
 - 🏠 Also We've a StartUp [Alquielres Guaranda](https://alquileresguaranda.com).
@@ -31,16 +33,8 @@
 </div>
 
 <h1 align="left"> Github stadistics</h1>
-<!--Github Stadistics-->
-<div align="center">
-  
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=79811010" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=79811010&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @JuanCalvacheDev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=79811010&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+<!--GitHub Stats-->
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=JuanCalvacheDev&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCalvacheDev&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCalvacheDev&layout=compact&theme=github_dark"/>|
