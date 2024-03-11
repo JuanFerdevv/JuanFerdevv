@@ -24,22 +24,20 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NFT Portal</h3>
+      <h3 align="center">Alquileres Guaranda</h3>
         <br />
-        <a target="_blank" href="http://nftportalbyrahul.netlify.app">
-            <img src="images/nftportal.jpg" width="100%" alt="NFT App"/>
+        <a target="_blank" href="http://alquileresguaranda.com">
+            <img src="" width="100%" alt="Alquileres Gda"/>
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/NFT-Portal" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
+  
   <a href="http://nftportalbyrahul.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A Smart contract in Solidity and a Web3 app to Mint your own NFT collection. Frontend made with React to let users connect their wallets and interact with the NFTs.</p>
+        <p><strong>Laravel 10, Tailwindccs, Sass, & Solidity</strong> - NFT Platform :  A Smart contract in Solidity and a Web3 app to Mint your own NFT collection. Frontend made with React to let users connect their wallets and interact with the NFTs.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Wave Portal</h3>
