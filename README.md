@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm JuanFer Dev 💻</h1>
 
-<img src="https://github.com/JuanFerdevv/JuanFerdevv/blob/main/Group%203.png" align="center" alt="berkeli header image">
+<img src="https://github.com/JuanFerdevv/JuanFerdevv/blob/main/images/01-LogoGitHub.png" align="center" alt="berkeli header image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanFerdevv" alt="100rabhcsmc" /> </p>
 <!--Intro start-->
