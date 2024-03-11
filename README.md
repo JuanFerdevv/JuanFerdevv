@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanCalvacheDed" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanFerdevv" alt="100rabhcsmc" /> </p>
 <!--Intro start-->
 
 - 🏠 Also We've a StartUp [Alquileres Guaranda](https://www.alquileresguaranda.com).
