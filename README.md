@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm JuanFer dev 💻</h1>
+<h1 align="center">Hi! I'm JuanFer Dev 💻</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanCalvacheDed" alt="100rabhcsmc" /> </p>
@@ -19,6 +19,8 @@
 - 🙏  Thanks for being here
 <!--Intro end-->
 
+<div>
+  
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=79811010" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=79811010&image_size=auto&color_scheme=dark" width="771" height="auto">
@@ -27,3 +29,14 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+</div>
+
+<div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
+</div>
