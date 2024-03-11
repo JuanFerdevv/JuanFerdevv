@@ -1,9 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi! I'm JuanFer dev 💻</h1>
 
-<!--
-**JuanCalvacheDev/JuanCalvacheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanCalvacheDed" alt="100rabhcsmc" /> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
