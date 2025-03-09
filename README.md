@@ -32,16 +32,14 @@
         <br />
         <p align="center">
           <br>
- <div class="flex flex-wrap justify-center gap-2 p-4">
-  <a href="https://alquileresguaranda.com/" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
-  </a>
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="Digital Ocean">
-</div>
-
-
+        <div class="flex flex-wrap justify-center gap-2 p-4">
+        <a href="https://alquileresguaranda.com/" target="_blank">
+          <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+        </a>
+        <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
+        </div>
       </p>
         <p><strong>Laravel 10, Tailwindccs, Sass, & Solidity</strong> - Alquileres Guaranda : Alquileres Guaranda is a marketplace for publishing rental properties.</p>
     </td>
