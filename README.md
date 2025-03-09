@@ -41,26 +41,23 @@
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
         </div>
-      </p>
-        <p><strong>Laravel 10, Tailwindccs, Sass, & Solidity</strong> - Alquileres Guaranda : Alquileres Guaranda is a marketplace for publishing rental properties.</p>
+      </p> <p><strong>Laravel 10, Tailwindccs, Sass, & Solidity</strong> - Alquileres Guaranda : Alquileres Guaranda is a marketplace for publishing rental properties.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Mi propio Framework PHP</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
+            <img src="images/myFrameworkPhpScreen.png" width="100%"  alt="Mi propio framework PhP"/>
         </a>
         <br />
         <p align="center">
    <br>
-  <a href="https://github.com/rahulkarda/Wave-Portal" target="_blank">
+  <a href="https://github.com/JuanFerdevv/Replica-Laravel" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-  <a href="https://waveatrahul.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>PHP, Html, CSS, JavaScript</strong> - Mi framework PHP : A web Page with MVC Pattern from scratch</p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+     </p>
+        <p><strong>PHP, Html, CSS, JavaScript</strong> - Mi framework PHP : A web Page with MVC Pattern from scratch, developed in 2023, last university season</p>
     </td>
   </tr>
   
