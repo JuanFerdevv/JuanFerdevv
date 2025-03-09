@@ -15,7 +15,7 @@
 
 - 📽 I currently upload videos to YouTube about technologies and tutorials [Youtube](https://www.youtube.com/@Juanferdev)
 
-- 📫 Feel free to reach me out **juanferdev006@gmail.com**
+- 📫 Feel free to reach me out **juanfermain0@gmail.com**
   
 - 🙏  Thanks for being here
 <!--Intro end-->
@@ -27,7 +27,7 @@
       <h3 align="center">Alquileres Guaranda</h3>
         <br />
         <a target="_blank" href="http://alquileresguaranda.com">
-            <img src="" width="100%" alt="Alquileres Gda"/>
+            <img src="https://github.com/JuanFerdevv/JuanFerdevv/blob/main/images/alquileresGuarandaScreen.png" width="100%" alt="Alquileres Gda"/>
         </a>
         <br />
         <p align="center">
@@ -36,6 +36,7 @@
         <a href="https://alquileresguaranda.com/" target="_blank">
           <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
         </a>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
