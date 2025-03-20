@@ -46,7 +46,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Mi propio Framework PHP</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://github.com/JuanFerdevv/Replica-Laravel">
             <img src="images/myFrameworkPhpScreen.png" width="100%"  alt="Mi propio framework PhP"/>
         </a>
         <br />
